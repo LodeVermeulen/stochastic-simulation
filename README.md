@@ -5,3 +5,6 @@ The code for the first assignment can be found in the folder "Homework 1". There
 
 ## Homework 2.
 The code for the second assignment can be found in the folder "Homework 2". The only important file in that foler is HW2.ipynb. This file contains all the code used for our results in the report. The other files (csv files) can be disregarded.
+
+## Homework 3.
+The code for the third assignment can be found in the folder "Homework 3". The only important file in that foler is HW3.ipynb. This file contains all the code used for our results in the report. The other files are the data files that define the graphs we analyse in the notebook.
